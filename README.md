@@ -1,0 +1,2 @@
+# EvertQuest-Client
+ Vanilla client
